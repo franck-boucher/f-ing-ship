@@ -217,3 +217,60 @@ Toutes dans le style space-punk trashy/humoristique du jeu (vulgaire mais jamais
 49. Renommage validé. « Le F-ing Ship Ultime » sonne mieux que « Merde Volante ».
 50. L’Empire te surveille. Et il se demande encore pourquoi il t’a donné un vaisseau.
 
+## 9. Liste des compétences
+
+### 30 Compétences Actives
+
+1. **Tir Laser de Merde** – Un rayon bas de gamme qui gratte la coque mais qui sent le circuit cramé.  
+2. **Salve de Missiles Rouillés** – Balance une pluie de missiles qui explosent n’importe comment.  
+3. **Bélier Orbital** – Charge comme un bourrin et ignore une partie de la coque adverse.  
+4. **EMP de Brocante** – Coup de jus cheap qui stunne l’autre enfoiré 1 tour.  
+5. **Hackage à la Va-Vite** – Pirate le système adverse et lui pique un peu de vitesse.  
+6. **Canon Plasma Qui Pète** – Gros dégâts mais risque de surchauffe ridicule.  
+7. **Lâcher de Mines Orbitale** – Pose des mines qui font mal à chaque tour suivant.  
+8. **Rayon Tracteur Violent** – Attire l’autre et le ralentit comme un con.  
+9. **Overcharge des Réacteurs** – Gagne un tour bonus direct, parce que pourquoi pas.  
+10. **Mitrailleuse Néon** – Rafale rapide de petits tirs qui font “pew pew” en continu.  
+11. **Bombe à Fragmentation** – Explosion en morceaux, très sale.  
+12. **Attaque Kamikaze Contrôlée** – Gros dégâts, mais ton vaisseau perd un bout de coque.  
+13. **Pulse Ionique** – Dégâts + chance de désactiver un passif adverse temporairement.  
+14. **Canon à Gravité** – Écrase l’autre comme une canette vide.  
+15. **Jet de Déchets Toxiques** – Balance tes poubelles spatiales, dégâts + poison sur la durée.  
+16. **Drille Perforante** – Perce la coque comme du beurre.  
+17. **Lance-Flammes Cosmique** – Crame l’ennemi sur plusieurs tours.  
+18. **Tir Sniper Hyperspatial** – Coup précis et humiliant, chance de critique.  
+19. **Explosion Contrôlée de Réacteur** – Très gros dégâts… ou tu exploses, 50/50.  
+20. **Barrage de Torpilles** – Salve lourde et lente qui fait mal.  
+21. **Interférence Radio** – Brouille les communications et fait rater le prochain tour adverse.  
+22. **Virus de Bord** – Infecte l’autre vaisseau (dégâts continus + réduction stats).  
+23. **Sabordage Système** – Chance de désactiver temporairement une compétence active de l’adversaire.  
+24. **Rafale de Mitraille** – Mitraille tellement vite que l’autre n’a pas le temps de respirer.  
+25. **Charge Plasma Explosive** – Un gros coup qui envoie tout valser.  
+26. **Lancement de Drone Suicide** – Envoie un petit drone qui va se faire exploser sur la gueule de l’autre.  
+27. **Rayon Désintégrateur** – Désintègre un gros morceau de coque.  
+28. **Grappin Magnétique** – Accroche l’autre et lui vole un bout de coque ou d’énergie.  
+29. **Bombardement Acide** – Arrose d’acide qui ronge la coque sur la durée.  
+30. **F-ing Overdrive** – Mode “je suis le boss” : boost massif de tout pendant ce tour.
+
+### 20 Compétences Passives
+
+1. **Coque Renforcée** – + Durabilité permanente, parce que t’es pas une merde totale.  
+2. **Réparation de Fortune** – Régénère un peu de coque à chaque fin de tour.  
+3. **Contre-Attaque** – Chance de riposter automatiquement quand on te touche.  
+4. **Boost RPM d’Adrénaline** – + Vitesse quand ta coque est basse (le joueur enragé).  
+5. **Réflexes de Pilote de Merde** – Chance d’esquiver une attaque.  
+6. **Bouclier d’Urgence** – Active un mini-bouclier quand tu prends un gros coup.  
+7. **Recycleur de Débris** – Convertit une partie des dégâts reçus en Fémur Galactique.  
+8. **Peinture Camouflage pourrie** – Réduit légèrement la chance d’être ciblé en premier.  
+9. **Résistance aux EMP** – Moins sensible aux stuns et hacks.  
+10. **Rage des Étoiles** – + Attaque massive quand tu es en dessous de 30 % de coque.  
+11. **Système Anti-Missile** – Réduit les dégâts des attaques à distance.  
+12. **Retour de Flamme** – Renvoie une partie des dégâts à l’attaquant.  
+13. **Blindage Improvisé** – Réduction générale des dégâts reçus.  
+14. **Vitesse de Fuite** – Chance de gagner un tour bonus quand tu es en danger.  
+15. **Hack Passif** – Chance de voler un petit bonus à l’adversaire chaque tour.  
+16. **Durabilité de l’Empire** – Gros bonus de coque permanent.  
+17. **Auto-Réparation Nano** – Régénération lente mais constante.  
+18. **Esquive de Dernière Minute** – Très forte chance d’esquive quand la coque est très basse.  
+19. **Aura de Terreur** – Réduit un peu la vitesse de l’adversaire en permanence.  
+20. **Cœur de Réacteur Surdimensionné** – + RPM permanent (tu tournes plus vite que tout le monde).
