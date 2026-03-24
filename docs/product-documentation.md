@@ -128,6 +128,8 @@ Exemple : « Ton tas de ferraille vient de se faire démonter par un vaisseau qu
 
 ## 7. Liste des rangs
 
+20 rangs au total.
+
 1. Épave
 2. Tas de Boulons
 3. Poubelle Volante
@@ -136,48 +138,18 @@ Exemple : « Ton tas de ferraille vient de se faire démonter par un vaisseau qu
 6. Cafetière Spatiale
 7. Navette de Déchetterie
 8. Corbillard Cosmique
-9. Vaisselle Volante
-10. Tas de Ferraille Amélioré
-11. Chasseur de Pacotille
-12. Zinc Volant
-13. Bricolage Spatial
-14. Poubelle Armée
-15. Épave Améliorée
-16. Vaisseau de Seconde Main
-17. Ferraille Qui Tient Debout
-18. Proto-Casseur
-19. Tas de Merde Fonctionnel
-20. Navire de Bas de Gamme
-21. Chasseur Décent
-22. Croiseur de Quartier
-23. Vaisseau Qui Fait Le Job
-24. Rafiot Respectable
-25. Destroyer de Proximité
-26. Bateau de l’Empire
-27. Intercepteur Moyenne Gamme
-28. Corvettard
-29. Frégate Bricolée
-30. Croiseur du Dimanche
-31. Destroyer de l’Empire
-32. Chasseur d’Élite
-33. Frégate de Guerre
-34. Croiseur Lourd
-35. Vaisseau d’Assaut
-36. Fléau des Astéroïdes
-37. Prédateur Spatial
-38. Maraudeur Galactique
-39. Faucheur de Nébulas
-40. Croiseur de Légende
-41. Destructeur Stellaire
-42. Seigneur de l’Hyperespace
-43. Terreur des Vides
-44. Fléau des Systèmes
-45. Conquérant des Étoiles
-46. Croiseur Impérial
-47. Légende Vivante
-48. Empereur Galactique
-49. Dieu des Étoiles
-50. Légende Galactique
+9. Bricolage Spatial
+10. Chasseur de Pacotille
+11. Vaisseau Qui Fait Le Job
+12. Rafiot Respectable
+13. Destroyer de Proximité
+14. Frégate de Guerre
+15. Croiseur Lourd
+16. Vaisseau d’Assaut
+17. Maraudeur Galactique
+18. Destructeur Stellaire
+19. Conquérant des Étoiles
+20. Légende Galactique
 
 ## 8. Exemples de lignes de textes
 
